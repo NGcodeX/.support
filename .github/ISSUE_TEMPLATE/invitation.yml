@@ -24,8 +24,6 @@ body:
       description: which is your programming languages ??
       options:
         - label: c
-          required: true
-        - label: c++
-          required: true         
+        - label: c++        
         - label: python
-          required: true
+ 
